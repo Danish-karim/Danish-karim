@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Danish Karim, a Full Stack Developer with over 3 years of experience in full-stack development.
+I'm Danish Karim, a Full Stack Developer with over 3 years of experience in full-stack development.
 
 Key Skills:
 
